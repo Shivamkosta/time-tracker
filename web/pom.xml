@@ -16,6 +16,7 @@
         <dependency>
             <groupId>training.taylor.time-tracker</groupId>
             <artifactId>time-tracker-core</artifactId>
+                 
             <version>${project.version}</version>
         </dependency>
     </dependencies>
